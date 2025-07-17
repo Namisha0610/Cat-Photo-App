@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://img.freepik.com/premium-vector/draw-seamless-pattern-cute-cat-box_45130-993.jpg?semt=ais_hybrid&w=740);
+    font-family: sans-serif;
+}
+
+.catapp{
+    width: 80%;
+    background-color: rgb(163, 166, 167);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+h1, h2, p{
+    text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+hr{
+    height: 2px;
+    background-color: rgb(59, 57, 57);
+    color: rgb(59, 57, 57);
+    margin-top: 35px;
+
+}
+
+figcaption {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+}
+
+#secondques {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list {
+    margin-bottom: 40px;
+    margin-top: -5px;
+}
+
+/* footer */
+
+footer {
+    font-size: 13px;
+}
+
+a{
+    color: black;
+}
+
+a:visited{
+     color: black;
+}
+
+a:hover{
+    color:blueviolet;
+}
+
+a:active{
+    color:blueviolet;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+}
